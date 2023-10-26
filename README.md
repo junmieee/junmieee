@@ -1,5 +1,5 @@
 <h2 align="center">👋 Hi there 👋</h2>
-<h3 align="center">📚 Tech Stack 📚</h3>
+<h3 align="center">📚 Tech Stack </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/React-007396?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Next.js-3766AB?style=flat-square&logo=Next.js&logoColor=white"/></a>&nbsp 
